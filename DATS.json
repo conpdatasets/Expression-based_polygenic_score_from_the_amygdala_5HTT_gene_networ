@@ -44,20 +44,60 @@
 	"distributions": [
 		{
 			"formats": [
-				"CSV"
+				"DOCX"
 			],
-			"size": 1.06,
-			"unit":	{
+			"size": 1.1,
+			"unit": {
 				"value": "MB"
 			},
 			"access": {
-				"landingPage":	"https://github.com/conp-bot/conp-dataset-Expression-based-polygenic-score-from-the-amygdala-5HTT-gene-network/blob/master/README.md",
+				"landingPage": "https://zenodo.org/records/4321253",
 				"authorizations": [
 					{
 						"value": "public"
 					}
-				]
-			}
+				],
+				"accessURL": "https://zenodo.org/records/4321253/files/5-HTT-ePRS.docx?download=1"
+			},
+			"title": "5-HTT-ePRS.docx"
+		},
+		{
+			"formats": [
+				"CSV"
+			],
+			"size": 2.1,
+			"unit": {
+				"value": "KB"
+			},
+			"access": {
+				"landingPage": "https://zenodo.org/records/4321253",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				],
+				"accessURL": "https://zenodo.org/records/4321253/files/5-HTT-ePRS.csv?download=1"
+			},
+			"title": "5-HTT-ePRS.csv"
+		},
+		{
+			"formats": [
+				"MD"
+			],
+			"size": 422.0,
+			"unit": {
+				"value": "B"
+			},
+			"access": {
+				"landingPage": "https://zenodo.org/records/4321253",
+				"authorizations": [
+					{
+						"value": "public"
+					}
+				],
+				"accessURL": "https://zenodo.org/records/4321253/files/README.md?download=1"
+			},
+			"title": "README.md"
 		}
 	],
 	"types": [
